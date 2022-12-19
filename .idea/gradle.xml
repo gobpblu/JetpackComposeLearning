@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/composableimagecard" />
+            <option value="$PROJECT_DIR$/constraintlayout" />
+            <option value="$PROJECT_DIR$/lists" />
+            <option value="$PROJECT_DIR$/modifiers" />
+            <option value="$PROJECT_DIR$/sideeffectsandeffecthandlers" />
+            <option value="$PROJECT_DIR$/simpleanimations" />
+            <option value="$PROJECT_DIR$/state" />
+            <option value="$PROJECT_DIR$/stylingtext" />
+            <option value="$PROJECT_DIR$/textfieldsbuttonsandsnackbars" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

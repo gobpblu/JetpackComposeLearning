@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Jetpack Compose Rows Columns Basic Sizing"
+include ':app'
+include ':modifiers'
+include ':composableimagecard'
+include ':stylingtext'
+include ':state'
+include ':textfieldsbuttonsandsnackbars'
+include ':lists'
+include ':constraintlayout'
+include ':sideeffectsandeffecthandlers'
+include ':simpleanimations'
